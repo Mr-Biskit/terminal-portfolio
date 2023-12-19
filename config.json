@@ -1,0 +1,67 @@
+{
+  "ascii": [
+    "███╗   ███╗██████╗     ██████╗ ██╗███████╗██╗  ██╗██╗████████╗",
+    "████╗ ████║██╔══██╗    ██╔══██╗██║██╔════╝██║ ██╔╝██║╚══██╔══╝",
+    "██╔████╔██║██████╔╝    ██████╔╝██║███████╗█████╔╝ ██║   ██║   ",
+    "██║╚██╔╝██║██╔══██╗    ██╔══██╗██║╚════██║██╔═██╗ ██║   ██║   ",
+    "██║ ╚═╝ ██║██║  ██║    ██████╔╝██║███████║██║  ██╗██║   ██║   ",
+    "╚═╝     ╚═╝╚═╝  ╚═╝    ╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝   "
+  ],
+  "repoLink": "https://github.com/Mr-Biskit",
+  "social": {
+    "email": "dev@mrbiskit.xyz",
+    "github": "Mr-Biskit",
+    "linkedin": "gabriel-vince-017059214"
+  },
+  "aboutGreeting": "Hello! I'm Gabriel,<br/> a multifaceted professional excelling in software development, design, and project management.<br/> My expertise lies in seamlessly integrating technology and creativity to deliver exceptional solutions.",
+  "projects": [
+    [
+      "TrustMe-Settlements",
+      "A Next.js and React-based DVP platform for Ethereum blockchain transactions.",
+      "https://github.com/mengiefen/TrustMe-Settlements",
+      "Featured project on Alchemy University"
+    ],
+    [
+      "TrustMeBackend",
+      "A Delivery versus Payment (DVP) contract, testing and deployment",
+      "https://github.com/Mr-Biskit/TrustMeBackend",
+      "Featured project on Alchemy University"
+    ],
+    [
+      "Rpsls",
+      "Dapp for Rock, Paper, Scissor, Lizard, Spock",
+      "https://github.com/Mr-Biskit/rpsls",
+      "No"
+    ],
+    [
+      "didComm-anonCrypt",
+      "A DIDComm Messaging-based project for single DID key-encrypted message exchange.",
+      "https://github.com/Mr-Biskit/didComm-anonCrypt",
+      "Winner of CoinDesk Hackathon"
+    ],
+    [
+      "Kilt DIDComm ChatApp",
+      "Chat app utilizing Decentralized Identities for end-to-end encryption and user verification through signing.",
+      "https://github.com/Mr-Biskit/kilt-didcomm-chatapp",
+      "Winner of KILT Hackathon"
+    ],
+    [
+      "Stir Digital",
+      "A Next.js-based, mobile-responsive design agency website featuring custom Rive animations",
+      "https://github.com/Mr-Biskit/StirDigital",
+      "No"
+    ],
+    [
+      "Brewery Website",
+      "Restaurant Website. CMS integration and custom design",
+      "https://github.com/Mr-Biskit/brewery-website",
+      "No"
+    ],
+    [
+      "NFT Price Tracker",
+      "A node server for tracking a NFT address transfers and relaying the price and marketplace.",
+      "https://github.com/Mr-Biskit/nftPriceTracker",
+      "No"
+    ]
+  ]
+}
